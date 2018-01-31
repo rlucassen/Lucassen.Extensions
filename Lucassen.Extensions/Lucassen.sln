@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lucassen.Extensions", "Lucassen.Extensions.csproj", "{E8342F00-A90D-4E54-A2CE-5801847C1612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8342F00-A90D-4E54-A2CE-5801847C1612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8342F00-A90D-4E54-A2CE-5801847C1612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8342F00-A90D-4E54-A2CE-5801847C1612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8342F00-A90D-4E54-A2CE-5801847C1612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AE8B02E-F461-4C5E-B4F3-DBE4E72192C1}
+	EndGlobalSection
+EndGlobal
